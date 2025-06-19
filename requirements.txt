@@ -1,1 +1,2 @@
 requests 
+Python 3.7+
